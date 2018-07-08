@@ -1,9 +1,9 @@
- <div align="center">
+<div align="center">
+<h1 align="center">Oh, So Simple HTML CV!</h1>
 
-  <img alt="Simple HTML CV" src="https://github.com/ritaly/HTML-CSS-CV-demo/blob/master/img/resume_icon.png" />
+<img alt="Simple HTML CV" src="https://github.com/ritaly/HTML-CSS-CV-demo/blob/master/img/resume_icon.png" />
 
- <h1 align="center">Oh, So Simple HTML CV!</h1>
-  HTML and CSS template for your outstanding job applications
+HTML and CSS template for your outstanding job applications
 </div>
 
 ## What is Oh, So Simple HTML CV?
