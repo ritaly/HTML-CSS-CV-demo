@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+
+body {
+	margin: 0;
+	font-family: 'Raleway';
+	font-size: 16px;
+	line-height: 1.8em;
+}
+
+header, main, footer {
+	margin: 0 auto;
+}
+
+article, section{
+	margin: 1em;
+	padding: 1em;
+}
+
+header {
+	padding: 2em;
+	text-align: center;
+	background-image: url('./img/bg.jpg');
+	background-size: cover;
+	background-position: fixed;
+	color: white;
+}
+
+header section {
+	margin: 0 auto;
+	max-width: 640px;
+}
+
+header img {
+	border-radius: 50%;
+	max-width: 150px;
+}
+
+h1 {
+	text-transform: uppercase;
+	margin: 1em;
+}
+
+h3 {
+  text-transform: uppercase;
+}
+
+h3, h4 {
+  font-weight: bold;
+}
+
+main {
+	max-width: 1140px;
+}
+
+.course {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+}
+
+.course .title {
+	color: #509e98;
+	-ms-flex: 0 0 33.3%;
+  flex: 0 0 33.3%;
+  max-width: 33%;
+}
+
+.course .descrition {
+    -ms-flex: 0 0 66.6%;
+    flex: 0 0 66.6%;
+    max-width: 66.6%;
+}
+
+.skills {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+}
+
+.skills .column {
+  -ms-flex: 0 0 50%%;
+  flex: 0 0 50%;
+  max-width: 50%;
+}
+
+.skills .column ul {
+  list-style-type: none;
+}
+
+.skills .column ul > li:before {
+  content: "►";
+  padding-right: 0.5em;
+  color: #509e98;
+}
+
+.school span {
+	color: #889499;
+}
+
+footer {
+ padding: 1em;
+ background: #ccc;
+}
