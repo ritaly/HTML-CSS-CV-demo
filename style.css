@@ -52,6 +52,10 @@ main {
 	max-width: 1140px;
 }
 
+main section:not(:last-child) {
+  border-bottom:1px solid #ccc;
+}
+
 .course {
   display: -ms-flexbox;
   display: flex;
@@ -95,8 +99,13 @@ main {
   color: #509e98;
 }
 
+.school {
+  text-transform: capitalize;
+}
+
 .school span {
 	color: #889499;
+  text-decoration: underline;
 }
 
 footer {
