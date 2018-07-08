@@ -83,9 +83,9 @@ main section:not(:last-child) {
 }
 
 .course .descrition {
-    -ms-flex: 0 0 66.6%;
-    flex: 0 0 66.6%;
-    max-width: 66.6%;
+  -ms-flex: 0 0 66.6%;
+  flex: 0 0 66.6%;
+  max-width: 66.6%;
 }
 
 .course .descrition p {
@@ -147,5 +147,9 @@ footer {
 
   .skills .column {
     max-width: 100%;
+  }
+
+  footer {
+    text-align: center;
   }
 }
