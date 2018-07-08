@@ -18,8 +18,9 @@ HTML and CSS template for your outstanding job applications
 * implement good-looking responsive layouts
 * use Font Awesome 5 for social media
 
-Full explanation and task you can find in Polish.
-This repo contains the final source code for free tutorial: [CV HTML / CSS](https://www.flynerd.pl/2018/07/stworz-cv-w-html-i-css-krok-po-kroku.html)
+This repo contains the final source code for free tutorial.
+
+Full explanation and task you can find in Polish: [CV HTML / CSS](https://www.flynerd.pl/2018/07/stworz-cv-w-html-i-css-krok-po-kroku.html)
 
 ## Demo
 Check demo here: [Ocat CV](https://ritaly.github.io/HTML-CSS-CV-demo/)
