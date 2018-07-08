@@ -30,6 +30,6 @@ Please feel free to copy any part of this repo for your own uses.
 
 Thanks:
 
-- **Raleway** - set of free fonts thanks to Matt McInerney, Pablo Impallari (@impallari), Rodrigo Fuenzalida, Igino Marini
+- **Raleway** - set of free fonts thanks to Matt McInerney, Pablo Impallari, Rodrigo Fuenzalida, Igino Marini
 
-- **[Freepick](http://www.freepik.com)** - title icon made by Freepik, licensed: CC 3.0
+- **Freepik** - title icon made by [Freepick](http://www.freepik.com), licensed: CC 3.0
