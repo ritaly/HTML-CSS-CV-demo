@@ -123,7 +123,12 @@ footer {
 }
 
 @media screen and (max-width: 768px) {
+  header img {
+    max-width: 50%;
+  }
+
   .course {
     flex-flow: column;
+    -webkit-flex-flow: column;
   }
 }
