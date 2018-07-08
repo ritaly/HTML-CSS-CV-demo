@@ -25,7 +25,8 @@ Check demo here: [Ocat CV](https://ritaly.github.io/HTML-CSS-CV-demo/)
 
 ## Credits
 Please feel free to copy any part of this repo for your own uses.
-**[Fly Nerd](https://www.flynerd.pl/)** - I will be happy if you mention FlyNerd as an inspiration.
+
+[Fly Nerd](https://www.flynerd.pl/) - I will be happy if you mention **FlyNerd** as an inspiration.
 
 Thanks:
 
