@@ -15,13 +15,17 @@ a:hover {
   opacity: 0.5;
 }
 
-header, main, footer {
-  margin: 0 auto;
+article {
+  padding:0 1em;
 }
 
-article, section{
+section{
   margin: 1em;
   padding: 1em;
+}
+
+header, main, footer {
+  margin: 0 auto;
 }
 
 header {
@@ -61,7 +65,7 @@ main {
 }
 
 main section:not(:last-child) {
-  border-bottom:1px solid #ccc;
+  border-bottom: 1px solid #ccc;
 }
 
 .course, .skills {
@@ -82,6 +86,10 @@ main section:not(:last-child) {
     -ms-flex: 0 0 66.6%;
     flex: 0 0 66.6%;
     max-width: 66.6%;
+}
+
+.course .descrition p {
+  padding-left: 1em;
 }
 
 .skills .column {
@@ -122,13 +130,22 @@ footer {
  text-align: right;
 }
 
-@media screen and (max-width: 768px) {
-  header img {
-    max-width: 50%;
+@media only screen and (max-width: 768px) {
+  .course {
+    display: block;
   }
 
-  .course {
-    flex-flow: column;
-    -webkit-flex-flow: column;
+  .course .title, .course .descrition {
+    max-width: 100%;
+  }
+}
+
+@media only screen and (max-width: 576px) {
+  .skills {
+    display: block;
+  }
+
+  .skills .column {
+    max-width: 100%;
   }
 }
