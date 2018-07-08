@@ -10,7 +10,7 @@ HTML and CSS template for your outstanding job applications
 
 **Oh, So Clear HTML CV!** is simple, clear and aesthetic **Resume** template for beginners to better understand HTML5 and CSS basics by example.
 
-#### This page will help you:
+**This page will help you:**
 
 * create legible *CV (Curriculum Vitae)* / *Resume*
 * create website with HTML5 and CSS
@@ -25,9 +25,10 @@ Check demo here: [Ocat CV](https://ritaly.github.io/HTML-CSS-CV-demo/)
 
 ## Credits
 Please feel free to copy any part of this repo for your own uses.
-** [Fly Nerd](https://www.flynerd.pl/) ** - I will be happy if you mention FlyNerd as an inspiration.
+**[Fly Nerd](https://www.flynerd.pl/)** - I will be happy if you mention FlyNerd as an inspiration.
 
 Thanks:
+
 **Raleway** - set of free fonts thanks to Matt McInerney, Pablo Impallari (@impallari), Rodrigo Fuenzalida, Igino Marini
 
 **[Freepick](http://www.freepik.com)** - title icon made by Freepik, licensed: CC 3.0
