@@ -7,6 +7,14 @@ body {
   line-height: 1.8em;
 }
 
+a {
+  color: #1C9C94;
+}
+
+a:hover {
+  opacity: 0.5;
+}
+
 header, main, footer {
   margin: 0 auto;
 }
@@ -108,6 +116,8 @@ ul.job-description li:before{
 }
 
 footer {
- padding: 1em;
+ padding: 1em 2em;
  background: #A7B8BF;
+ color: white;
+ text-align: right;
 }
