@@ -16,6 +16,7 @@ HTML and CSS template for your outstanding job applications
 * create website with HTML5 and CSS
 * create CSS flexbox layout
 * implement good-looking responsive layouts
+* use Font Awesome 5 for social media
 
 Full explanation and task you can find in Polish.
 This repo contains final source code for tutorial: [CV HTML / CSS]()
