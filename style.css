@@ -168,4 +168,19 @@ footer {
   footer {
     text-align: center;
   }
+  table
+  {
+
+  border-collapse: separate;
+  border-spacing: 1px;
+   
+  
+  }
+  th, td 
+  {
+    padding: 100px;
+    font-family: green;
+
+
+  }
 }
