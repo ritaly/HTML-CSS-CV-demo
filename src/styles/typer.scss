@@ -1,0 +1,47 @@
+@import "variable";
+
+.vue-typer {
+  display: inline-block;
+}
+
+vue-typer {
+  display: inline-block;
+}
+
+.typer {
+  .vue-typer {
+    display: inline-block;
+
+    .custom {
+      &.char {
+        &.selected {
+          background-color: $--selection-color;
+        }
+      }
+
+      &.caret {
+        width: 5px;
+        background-color: $--selection-color;
+      }
+    }
+  }
+
+  &.white {
+    .custom {
+      &.char {
+        color: $--font-color;
+      }
+    }
+  }
+
+  &.black {
+    .custom {
+      &.char {
+        color: $--color-content;
+        &.selected {
+          color: $--font-color;
+        }
+      }
+    }
+  }
+}
